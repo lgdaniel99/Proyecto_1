@@ -9,14 +9,24 @@
 -proyecto1_lectura_datos_graficas.ipynb: Este archivo contiene todas las visualizaciones de datos del proyecto, así como gráficas importantes y mapas que muestran los restaurantes de la zona.
 ##### Ejemplos de visualización de datos
 La visualización de datos se realizó mayormente con Seaborn, MatplotLib y Folium.
-###### Visualización de franquicias
+
+##### Visualización de franquicias
+
 ![image](https://github.com/lgdaniel99/Proyecto_1/assets/82655761/5e9c4913-e6a3-4585-ac59-fab3ce112d77)
 
-###### Visualización de restaurantes por municipio
+##### Visualización de restaurantes por municipio
+
 ![image](https://github.com/lgdaniel99/Proyecto_1/assets/82655761/c1403ba8-e0cf-4452-8cf3-dde12064d653)
 
-###### Cloropeth de cantidad de restaurantes por municipio de Madrid
+##### Cloropeth de cantidad de restaurantes por municipio de Madrid
+
 ![image](https://github.com/lgdaniel99/Proyecto_1/assets/82655761/18e75c9c-98fc-4c96-bb84-67a9f0dd51b7)
+
+##### Ejemplo de gráfica para los Municipios de Madrid
+
+![image](https://github.com/lgdaniel99/Proyecto_1/assets/82655761/00da1e70-af46-4bee-9783-8fce305077b4)
+
+
 
 ### Conclusiones
 Cuando realizas web scraping en reseñas de restaurantes de TripAdvisor, puedes extraer una variedad de datos que te permiten obtener conclusiones interesantes sobre los establecimientos. Aquí hay algunos ejemplos de conclusiones que podrías obtener:
