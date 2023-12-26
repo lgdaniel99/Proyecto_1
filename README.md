@@ -46,7 +46,6 @@ Identificar áreas de fortaleza y debilidad.
 #### Ubicación y Opiniones Geoespaciales:
 
 Analizar la distribución geográfica de opiniones y comparar la satisfacción del cliente en diferentes ubicaciones geográficas.
-Ejemplo de conclusión:
 
 Es importante recordar que cualquier análisis derivado del web scraping debe hacerse éticamente y respetando los términos de servicio del sitio web en cuestión. Además, ten en cuenta que la calidad de los datos extraídos puede variar, y es fundamental verificar y limpiar los datos antes de sacar conclusiones significativas.
 
